@@ -35,7 +35,7 @@ Um site para desktop feito com HTML e CSS básicos. Esse projeto faz parte de um
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK]https://www.figma.com/file/QQQNw33sRxyslj9zO0MbPh/Explorer-Projeto-02-Copy?fuid=1113865453757192042. É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/QQQNw33sRxyslj9zO0MbPh/Explorer-Projeto-02-Copy?fuid=1113865453757192042). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
